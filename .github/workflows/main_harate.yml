@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'harate'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EFDA765E67D942D59E11653CF7097C95 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_084ED558EADC49E7AB685488999407B6 }}
